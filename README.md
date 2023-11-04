@@ -1,6 +1,6 @@
 # Bellabeat Analysis
 
-Welcome to Bellabeat analysis capstone project.
+Welcome to Bellabeat analysis capstone project with R.
 
 ## Instructions
 
